@@ -18,15 +18,14 @@ Once installed, simply run `python Derpibooru Parsing Bot.py`.
 
 - Logging in to Derpiboo.ru
 - Downloading images from front page to folder
+- Downloading images from Derpibooru feed to folder
 - Naming images sequentially and numerically
 
 ### To do:
 
-- Clean up code output
-- Support downloading images from Derpibooru feed
-- Continue naming of images count from last run
 - Specify image download folder
 - Specify how many pages to download
+- Continue naming of images count from last run
 - Add prefixes and suffixes to downloaded image names
 
 
